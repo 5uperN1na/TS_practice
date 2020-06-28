@@ -26,5 +26,11 @@ stringArray = ["this", "is so fun!"];
 console.log(stringArray);
 //tuple
 var strNumTuple;
-strNumTuple = ["hi friends", 25];
+// strNumTuple = ["hi friends", 25];
+strNumTuple = ["hi friends", 26, 27, 28];
 console.log(strNumTuple);
+// let myVoid: void = null;
+var myVoid = undefined;
+var myNull = null;
+var myUndefined = null;
+console.log(myUndefined);

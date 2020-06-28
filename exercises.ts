@@ -41,9 +41,17 @@ console.log (stringArray);
 
 let strNumTuple: [string, number];
 
-strNumTuple = ["hi friends", 25];
+// strNumTuple = ["hi friends", 25];
+strNumTuple = ["hi friends", 26, 27, 28];
 
-console.log(strNumTuple);
+console.log (strNumTuple);
+
+// let myVoid: void = null;
+let myVoid: void = undefined;
+let myNull: null = null;
+let myUndefined: undefined = null;
+
+console.log(myUndefined);
 
 
 
